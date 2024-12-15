@@ -7,18 +7,18 @@
 
   "env": {
     "GITHUB_USER_NAME": {
-      "description": "Put the user name here.",
+      "description": "sanija2024",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "DARK-SHUTER-MD=OZtzTY5B#9w0bs7HiY6JZBYZ_-4VRRybEQivh3bVtJkETNXIecQc",
       "required": true
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }
     
